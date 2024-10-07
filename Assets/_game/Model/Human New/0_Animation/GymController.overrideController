@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GymController
+  m_Controller: {fileID: 9100000, guid: ae56907ad51fd3d459f2863e7ce5af31, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 4859524332449873603, guid: d56c26adc4d9c8e4cb8eb0bb0655e097,
+      type: 3}
+    m_OverrideClip: {fileID: 4375918549861571406, guid: d56c26adc4d9c8e4cb8eb0bb0655e097,
+      type: 3}
+  - m_OriginalClip: {fileID: -5398699450884402494, guid: 9b85ff5319e21064e878f842f4a62f1c,
+      type: 3}
+    m_OverrideClip: {fileID: -2336113742064173399, guid: 637bf02301ed0fb49a00481b86d253a9,
+      type: 3}
+  - m_OriginalClip: {fileID: -7630927964432260549, guid: 9b85ff5319e21064e878f842f4a62f1c,
+      type: 3}
+    m_OverrideClip: {fileID: -6848026760020799816, guid: 637bf02301ed0fb49a00481b86d253a9,
+      type: 3}

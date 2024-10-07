@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GymUpdate
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: face.006
+    m_Weight: 1
+  - m_Path: fit
+    m_Weight: 1
+  - m_Path: fit/body_down
+    m_Weight: 1
+  - m_Path: fit/body_down/body_up
+    m_Weight: 1
+  - m_Path: fit/body_down/body_up/arm_up.L
+    m_Weight: 1
+  - m_Path: fit/body_down/body_up/arm_up.L/arm_down.L
+    m_Weight: 1
+  - m_Path: fit/body_down/body_up/arm_up.L/arm_down.L/hand.L
+    m_Weight: 1
+  - m_Path: fit/body_down/body_up/arm_up.L/arm_down.L/hand.L/finger_1.L
+    m_Weight: 1
+  - m_Path: fit/body_down/body_up/arm_up.L/arm_down.L/hand.L/finger_1.L/finger_1.2.L
+    m_Weight: 1
+  - m_Path: fit/body_down/body_up/arm_up.L/arm_down.L/hand.L/finger_2.L
+    m_Weight: 1
+  - m_Path: fit/body_down/body_up/arm_up.L/arm_down.L/hand.L/finger_2.L/finger_2.2.L
+    m_Weight: 1
+  - m_Path: fit/body_down/body_up/arm_up.L/arm_down.L/hand.L/finger_3.L
+    m_Weight: 1
+  - m_Path: fit/body_down/body_up/arm_up.L/arm_down.L/hand.L/finger_3.L/finger_3.2.L
+    m_Weight: 1
+  - m_Path: fit/body_down/body_up/arm_up.L/arm_down.L/hand.L/finger_4.L
+    m_Weight: 1
+  - m_Path: fit/body_down/body_up/arm_up.L/arm_down.L/hand.L/finger_4.L/finger_4.2.L
+    m_Weight: 1
+  - m_Path: fit/body_down/body_up/arm_up.L/arm_down.L/hand.L/finger_thumb_1.L
+    m_Weight: 1
+  - m_Path: fit/body_down/body_up/arm_up.L/arm_down.L/hand.L/finger_thumb_1.L/finger_thumb_2.L
+    m_Weight: 1
+  - m_Path: fit/body_down/body_up/arm_up.L/arm_down.L/hand.L/Little_Dumbbell
+    m_Weight: 1
+  - m_Path: fit/body_down/body_up/arm_up.R
+    m_Weight: 1
+  - m_Path: fit/body_down/body_up/arm_up.R/arm_down.R
+    m_Weight: 1
+  - m_Path: fit/body_down/body_up/arm_up.R/arm_down.R/hand.R
+    m_Weight: 1
+  - m_Path: fit/body_down/body_up/arm_up.R/arm_down.R/hand.R/finger_1.R
+    m_Weight: 1
+  - m_Path: fit/body_down/body_up/arm_up.R/arm_down.R/hand.R/finger_1.R/finger_1.2.R
+    m_Weight: 1
+  - m_Path: fit/body_down/body_up/arm_up.R/arm_down.R/hand.R/finger_2.R
+    m_Weight: 1
+  - m_Path: fit/body_down/body_up/arm_up.R/arm_down.R/hand.R/finger_2.R/finger_2.2.R
+    m_Weight: 1
+  - m_Path: fit/body_down/body_up/arm_up.R/arm_down.R/hand.R/finger_3.R
+    m_Weight: 1
+  - m_Path: fit/body_down/body_up/arm_up.R/arm_down.R/hand.R/finger_3.R/finger_3.2.R
+    m_Weight: 1
+  - m_Path: fit/body_down/body_up/arm_up.R/arm_down.R/hand.R/finger_4.R
+    m_Weight: 1
+  - m_Path: fit/body_down/body_up/arm_up.R/arm_down.R/hand.R/finger_4.R/finger_4.2.R
+    m_Weight: 1
+  - m_Path: fit/body_down/body_up/arm_up.R/arm_down.R/hand.R/finger_thumb_1.R
+    m_Weight: 1
+  - m_Path: fit/body_down/body_up/arm_up.R/arm_down.R/hand.R/finger_thumb_1.R/finger_thumb_2.R
+    m_Weight: 1
+  - m_Path: fit/body_down/body_up/arm_up.R/arm_down.R/hand.R/Little_Dumbbell.001
+    m_Weight: 1
+  - m_Path: fit/body_down/body_up/neck
+    m_Weight: 1
+  - m_Path: fit/body_down/body_up/neck/head
+    m_Weight: 1
+  - m_Path: fit/body_down/body_up/neck/head/hair
+    m_Weight: 1
+  - m_Path: fit/body_down/leg_up.L
+    m_Weight: 1
+  - m_Path: fit/body_down/leg_up.L/leg_down.L
+    m_Weight: 1
+  - m_Path: fit/body_down/leg_up.L/leg_down.L/foot.L
+    m_Weight: 1
+  - m_Path: fit/body_down/leg_up.L/leg_down.L/foot.L/foot.L.001
+    m_Weight: 1
+  - m_Path: fit/body_down/leg_up.L/leg_down.L/foot.L/shoe_2.003
+    m_Weight: 1
+  - m_Path: fit/body_down/leg_up.R
+    m_Weight: 1
+  - m_Path: fit/body_down/leg_up.R/leg_down.R
+    m_Weight: 1
+  - m_Path: fit/body_down/leg_up.R/leg_down.R/foot.R
+    m_Weight: 1
+  - m_Path: fit/body_down/leg_up.R/leg_down.R/foot.R/foot.R.001
+    m_Weight: 1
+  - m_Path: fit/body_down/leg_up.R/leg_down.R/foot.R/shoe_2.002
+    m_Weight: 1
+  - m_Path: fit/IK_pole.L
+    m_Weight: 1
+  - m_Path: fit/IK_pole.R
+    m_Weight: 1
+  - m_Path: fit/IK_target.L
+    m_Weight: 1
+  - m_Path: fit/IK_target.R
+    m_Weight: 1
+  - m_Path: shorts
+    m_Weight: 1
+  - m_Path: vampire_body.002
+    m_Weight: 1

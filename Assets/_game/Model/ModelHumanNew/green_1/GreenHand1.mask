@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GreenHand1
+  m_Mask: 00000000010000000100000000000000000000000100000001000000010000000100000000000000000000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature_thin
+    m_Weight: 0
+  - m_Path: Armature_thin/belly
+    m_Weight: 0
+  - m_Path: Armature_thin/belly/leg_up.L
+    m_Weight: 0
+  - m_Path: Armature_thin/belly/leg_up.L/leg_down.L
+    m_Weight: 0
+  - m_Path: Armature_thin/belly/leg_up.L/leg_down.L/foot.L
+    m_Weight: 0
+  - m_Path: Armature_thin/belly/leg_up.R
+    m_Weight: 0
+  - m_Path: Armature_thin/belly/leg_up.R/leg_down.R
+    m_Weight: 0
+  - m_Path: Armature_thin/belly/leg_up.R/leg_down.R/foot.R
+    m_Weight: 0
+  - m_Path: Armature_thin/belly/torso
+    m_Weight: 0
+  - m_Path: Armature_thin/belly/torso/arm_up.L
+    m_Weight: 1
+  - m_Path: Armature_thin/belly/torso/arm_up.L/arm_down.L
+    m_Weight: 1
+  - m_Path: Armature_thin/belly/torso/arm_up.L/arm_down.L/hand.L
+    m_Weight: 1
+  - m_Path: Armature_thin/belly/torso/arm_up.L/arm_down.L/hand.L/wep.L
+    m_Weight: 1
+  - m_Path: Armature_thin/belly/torso/arm_up.R
+    m_Weight: 1
+  - m_Path: Armature_thin/belly/torso/arm_up.R/arm_down.R
+    m_Weight: 1
+  - m_Path: Armature_thin/belly/torso/arm_up.R/arm_down.R/hand.R
+    m_Weight: 1
+  - m_Path: Armature_thin/belly/torso/arm_up.R/arm_down.R/hand.R/wep.R
+    m_Weight: 1
+  - m_Path: Armature_thin/belly/torso/head
+    m_Weight: 0
+  - m_Path: Armature_thin/belly/torso/head/body_red.002
+    m_Weight: 0
+  - m_Path: Armature_thin/belly/torso/head/hair.bacon.red.001
+    m_Weight: 0
+  - m_Path: Armature_thin/ik_foot.L
+    m_Weight: 0
+  - m_Path: Armature_thin/ik_foot.R
+    m_Weight: 0
+  - m_Path: Armature_thin/ik_pole.L
+    m_Weight: 0
+  - m_Path: Armature_thin/ik_pole.R
+    m_Weight: 0
+  - m_Path: body_red.001
+    m_Weight: 0
